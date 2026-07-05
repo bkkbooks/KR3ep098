@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep098_000.yaml, hash: 'sha256:110176fa3707a4afca7435aed82eac64a47aea7b308c581e69d479ec6111afbb'}
+  - {seq: 0, filename: KR3ep098_000.yaml, hash: 'sha256:f7fde38faf5d62d29e3d046955cdb279deda599174e77a211f0a528f47b3a543'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep098_000.markers.yaml, hash: 'sha256:07be888bb9a7071dbc74a4a1033d8e755dde1e5e294759577770c6b11a25d05f'}
+  - {seq: 0, role: markers, filename: assets/KR3ep098_000.markers.yaml, hash: 'sha256:19270223c256905b879c8a62d8606d6b3e1fa0050f2301f1474fe54539a4cb61'}
 table_of_contents:
 - ref:
     seq: 0
@@ -60,7 +60,4 @@ table_of_contents:
   label: 舊德堂醫案
   type: section
   level: 1
-hash: sha256:d159f48f54d93d10e8a7199b652263b38c4c666a96c3f3b4913c9d7e354db4cf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:42dd639839806f1d2b3e2282292008a89ff913d75a51466e830446fa507ebaf4
